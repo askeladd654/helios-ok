@@ -9,7 +9,7 @@ google-api-python-client
 google-auth-httplib2
 google-auth-oauthlib
 gunicorn
-lk21
+git+https://github.com/zevtyardt/lk21.git
 lxml
 megasdkrestclient
 pillow
@@ -17,10 +17,10 @@ psutil
 psycopg2-binary
 pybase64
 pycryptodomex
-pyrogram
+pyrogram==2.0.29
 python-dotenv
 python-magic
-python-telegram-bot
+python-telegram-bot==13.7
 qbittorrent-api
 requests
 SecretStorage
