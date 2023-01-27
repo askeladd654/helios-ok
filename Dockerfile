@@ -1,4 +1,4 @@
-FROM anasty17/mltb:heroku
+FROM luffy01/taku:hero
 
 WORKDIR /usr/src/app
 RUN chmod 777 /usr/src/app
